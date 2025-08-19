@@ -14,12 +14,6 @@ A simple **Rogue-like** game built using **C** and the **ncurses** library. This
 
 ---
 
-## 🎮 Demo
-
-(Add some screenshots or gifs of the game running here)
-
----
-
 ## ⚙️ How to Build & Run
 
 ### Requirements
@@ -55,6 +49,7 @@ You can use **MinGW** or **WSL** on Windows. Note that setting up ncurses on Win
 - Pick up item: `g`
 - Attack: `space`
 - Quit: `q`
+- Pause Menu: `p`
 
 ---
 
@@ -63,12 +58,6 @@ You can use **MinGW** or **WSL** on Windows. Note that setting up ncurses on Win
 - Each new game generates a fresh random dungeon map.
 - Enemies spawn in different locations and engage in combat when you approach.
 - The main goal: survive as long as possible! 🕹️
-
----
-
-## 🤝 Contributing
-
-This project was built for learning purposes, but feel free to open Pull Requests or Issues with suggestions and improvements.
 
 ---
 
