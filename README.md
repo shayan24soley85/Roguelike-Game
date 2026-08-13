@@ -59,8 +59,4 @@ You can use **MinGW** or **WSL** on Windows. Note that setting up ncurses on Win
 - Enemies spawn in different locations and engage in combat when you approach.
 - The main goal: survive as long as possible! 🕹️
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
