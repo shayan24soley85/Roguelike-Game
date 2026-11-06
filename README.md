@@ -21,7 +21,7 @@ If you appreciate classic text-based adventures, deep dungeon crawling, and the 
 <br>
 <div align="center">
   <img src="assets/Screenshot 2026-11-06 160921.png" width="45%" alt="Pre-Game Menu">
-  <img src="assets/Screenshot 2026-11-06 160930.jpg" width="45%" alt="Scoreboard">
+  <img src="assets/Screenshot 2026-11-06 160930.png" width="45%" alt="Scoreboard">
 </div>
 <br>
 <div align="center">
